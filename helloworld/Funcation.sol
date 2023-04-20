@@ -2,12 +2,6 @@
 // 声明solidity版本
 pragma solidity ^0.8.4;
 
-
-  /**
-   * @title FunctionTypes
-   * @dev helloworld demo
-   * @custom:dev-run-script Funcation.sol
-   */
 contract FunctionTypes {
     
     uint256 public number = 5;
